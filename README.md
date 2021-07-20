@@ -24,5 +24,5 @@ If the conditions are met, reset the form and log to the console the information
 }
 ```
 
-## Exercise 1
+## Exercise 2
 Make the form work using controlled components, **and only 1 state object for all the inputs**
